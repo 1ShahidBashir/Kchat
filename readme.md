@@ -1,2 +1,2 @@
 ## Kchat
-# acess at here --> kchat.rf.gd
+# acess at [kchat.rf.gd](https://kchat.rf.gd)
