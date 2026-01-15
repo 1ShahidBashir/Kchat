@@ -43,7 +43,7 @@ if (!isset($_SESSION['unique_id'])) {
         </section>
     </div>
 
-    <script src="javascript/chat.js"></script>
+    <script src="javascript/message.js"></script>
 
 </body>
 
